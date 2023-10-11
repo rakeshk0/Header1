@@ -1,0 +1,117 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.header{
+   
+    display: flex;
+}
+.startup{
+    color: #1E0E62;
+    font-weight: 700;
+    margin-left: 62px;
+}
+
+.menu{
+    left: 50%;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+   margin-left: 140px;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+    margin: 25px;
+}
+.signin{
+    margin-left: 140px;
+    border: none;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+    font-size: 18px;
+    line-height: 28px;
+}
+.signup{
+    top: 10px;
+    margin-left: 30px;
+    width: 100px;
+    height: 40px;
+    position: relative;
+   background-color: #25DAC5;
+   border-radius: 100px;
+
+   
+}
+
+.sign{
+    
+    left: 22px;
+    position: absolute;
+    line-height: 40px;
+    font-size: 18px;
+   color: white;
+}
+.end{
+    display: flex;
+    
+    
+}
+
+.hero{
+    position: absolute;
+    font-size: 70px;
+    color: #1E0E62;
+    margin-top: 12%;
+    margin-left: 25%;
+}
+
+.paragraph{
+    width: 572px;
+    height: 86px;
+    position: absolute;
+    top: 39%;
+    left: 26%;
+    text-align: center;
+}
+.para{
+    
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 32px;
+    color: rgba(21.06, 20.34, 56.79, 0.40);
+}
+
+.purchase{
+  position: absolute;
+  top: 68%;
+  left: 37%;
+  border-radius: 100px;
+  height: 60px;
+  width: 300px;
+  background-color: #25DAC5;
+  
+}
+.purch{
+    font-size: 20px;
+    color: white;
+    line-height: 60px;
+    margin-left: 15%;
+}
+
+.learn{
+    position: absolute;
+    
+    top: 81%;
+    left: 45%;
+    height: 26px;
+    width: 98px;
+    /* background-color: red; */
+    font-size: 18px;
+    color: #25DAC5;
+}
